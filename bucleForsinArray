@@ -1,0 +1,4 @@
+print("Bucle For sin array")
+
+for i in range(5):  # Esto va de 0 a 4
+    print(f"El valor de i es: {i}")
